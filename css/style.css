@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti|Crafty+Girls|Rochester&display=swap");
+
+@import url("components/container.css");
+@import url("components/flowers.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Calligraffitti', cursive;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2{
+	font-family: 'Rochester', cursive;
+	font-weight: bold;
+}
+h3{
+	font-family: 'Crafty Girls', cursive;
+}
+a{
+	text-decoration: none;
+}
